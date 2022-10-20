@@ -1,4 +1,2 @@
 # test-repository
-
-
-This is new edit from your local computer.
+This is a second example.
